@@ -8,6 +8,8 @@
 
 ### 感谢 [hai-27](https://github.com/hai-27) 的开源 [vue-store](https://github.com/hai-27/vue-store) 项目提供前端页面及框架支持
 
+在此基础上，修复部署过程中出现的version字段缺失和图片问题
+
 
 ## 项目简介
 
@@ -22,10 +24,6 @@
 前端项目地址：https://github.com/ZeroWdd/vue-store
 
 后端项目地址：https://github.com/ZeroWdd/Xiaomi
-
-## 项目已部署
-
-仿小米商城： http://47.95.254.97:8080/
 
 ## 技术栈
 
