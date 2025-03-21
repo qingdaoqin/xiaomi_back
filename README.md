@@ -51,7 +51,7 @@
 ```
 1. Clone project
 
-git clone https://github.com/ZeroWdd/vue-store.git
+git clone 
 
 2. Project setup
 
@@ -69,8 +69,12 @@ npm run build
 **后端运行**
 
 ```
-1. 修改application.yml文件中的mysql、redis、rabbitmq的地址
-2. 运行SpringBoot项目
+需要提前安装好mysql5.7和redis和rabbitmq,如果是虚拟机安装的话，配置mysql和redis和rabbitmq远程访问，关闭防火墙
+1.git clone https://github.com/qingdaoqin/xiaomi_back.git
+2.修改application.yml文件中的mysql、redis、rabbitmq的地址
+3.数据库执行sql文件初始化
+4.项目目录终端执行nvm install
+5.运行项目
 ```
 
 ## 页面截图
