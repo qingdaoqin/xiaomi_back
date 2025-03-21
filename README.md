@@ -51,7 +51,7 @@
 ```
 1. Clone project
 
-git clone 
+git clone https://github.com/qingdaoqin/xmmall_vue.git
 
 2. Project setup
 
